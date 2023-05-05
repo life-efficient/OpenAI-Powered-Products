@@ -1,7 +1,7 @@
 import openai
 
 # Setting the API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 def get_completion(prompt):
